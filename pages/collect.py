@@ -41,10 +41,6 @@ def search_jobs(driver):
     
     # driver.find_element(By.XPATH, "//html").click()
 
-
-
-
-    
     """ except TimeoutException:
         print("Search jobs failed: Timeout")
         return False """
